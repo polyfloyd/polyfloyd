@@ -5,6 +5,7 @@ I'm polyfloyd, a software engineer by profession from The Netherlands 🇳🇱!
 * 🧠 I mainly specialize in Rust and Go, but know a bunch of other programming languages as well
 * ✨ Interested in computer graphics, signal processing and software reliability, to name a few things
 * 📖 My blog is [over here](https://polyfloyd.net)
+* <a rel="me" href="https://hsnl.social/@polyfloyd">Mastodon</a>
 * ⢀⣢ Involved in running the local Hackerspace, [Bitlair](https://bitlair.nl)
 
 <!--
