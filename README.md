@@ -8,6 +8,8 @@ I'm polyfloyd, a software engineer by profession from The Netherlands 🇳🇱!
 * <a rel="me" href="https://hsnl.social/@polyfloyd">Mastodon</a>
 * ⢀⣢ Involved in running the local Hackerspace, [Bitlair](https://bitlair.nl)
 
+Complementary Git projects and portfolio: [https://git.polyfloyd.net/](https://git.polyfloyd.net/explore/repos?q=&only_show_relevant=false&mirror=0&sort=recentupdate)
+
 <!--
 **polyfloyd/polyfloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
